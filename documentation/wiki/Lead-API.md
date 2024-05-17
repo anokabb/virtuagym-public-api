@@ -1,0 +1,1 @@
+In order to get access to the Lead API documentation, please reach out to api@virtuagym.com 
